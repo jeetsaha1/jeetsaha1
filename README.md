@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jeet Saha</h1>
+<h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
 
-<!--
-**jeetsaha1/jeetsaha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently working on: **Study Mate AI - Virtual student assistant**
+- 📚 Learning: **Data Science, NLP, and Web Development**
+- 🧠 Exploring: **AI, OpenCV, and Backend APIs**
+- ❤️ Passionate about: **Tech that helps others**
+- 🎯 Goal: *Making education accessible and intelligent for all*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetsaha&show_icons=true&theme=tokyonight" alt="Jeet's GitHub Stats" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+I’m a B.Tech CSE student passionate about building intelligent systems and exploring the intersection of emotion and education through AI. When I’m not coding, I’m either solving problems, designing intuitive UI, or thinking of the next innovation.
+
+---
+
+### 📫 Connect with Me:
+- Email: jeet2022saha@gmail.com  
+- LinkedIn: [linkedin.com/in/jeetsaha](https://linkedin.com/in/jeetsaha)  
+- Instagram: [@jeet.saha](https://instagram.com/jeet.saha)
+
+---
+
+### 📌 Projects Highlight:
+- 🎓 **Study Mate AI** – AI-based student mentor & stress management bot  
+- 🧠 **Sentiment Analyzer** – NLP project to detect emotional tones  
+- 📈 **College Result Visualizer** – Interactive marks analysis in graphs  
