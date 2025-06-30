@@ -10,8 +10,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeetsaha&show_icons=true&theme=tokyonight" alt="Jeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&theme=radical" alt="Jeet's GitHub Stats" />
 </p>
+
 
 ---
 
