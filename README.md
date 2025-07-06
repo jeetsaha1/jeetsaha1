@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jeet Saha</h1>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=700&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Building+Study+Mate+AI+%F0%9F%9A%80;Coding+with+Purpose+%F0%9F%92%BB;Making+Education+Smarter+%F0%9F%8E%93)
+
+</div>
 <h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
 
 - 🔭 Currently working on: **Study Mate AI - Virtual student assistant**
