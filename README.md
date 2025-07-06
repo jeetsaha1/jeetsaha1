@@ -2,8 +2,8 @@
 <h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
 
 - 🔭 Currently working on: **Study Mate AI - Virtual student assistant**
-- 📚 Learning: **Data Science, NLP, and Web Development**
-- 🧠 Exploring: **AI, OpenCV, and Backend APIs**
+- 📚 Learning: **Data Structure and Algorithm and Web Development**
+- 🧠 Exploring: **AI, Frontend and Backend APIs**
 - ❤️ Passionate about: **Tech that helps others**
 - 🎯 Goal: *Making education accessible and intelligent for all*
 
@@ -31,4 +31,4 @@ I’m a B.Tech CSE student passionate about building intelligent systems and exp
 ### 📌 Projects Highlight:
 - 🎓 **Study Mate AI** – AI-based student mentor & stress management bot  
 - 🧠 **Sentiment Analyzer** – NLP project to detect emotional tones  
-- 📈 **College Result Visualizer** – Interactive marks analysis in graphs  
+- 🤖 **J.A.R.V.I.S** – This is my personal project, making own personal AI Assistant  
