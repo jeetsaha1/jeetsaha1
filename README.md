@@ -38,4 +38,9 @@ I’m a B.Tech CSE student passionate about building intelligent systems and exp
 ### 📌 Projects Highlight:
 - 🎓 **Study Mate AI** – AI-based student mentor & stress management bot  
 - 🧠 **Sentiment Analyzer** – NLP project to detect emotional tones  
-- 🤖 **J.A.R.V.I.S** – This is my personal project, making own personal AI Assistant  
+- 🤖 **J.A.R.V.I.S** – This is my personal project, making own personal AI Assistant
+- 💼 **Payroll Management System** – Desktop application to manage employee salaries, deductions, and payslips (Non-AI)  
+- ⏰ **Time Management System** – Task management app with deadlines, priorities, and completion tracking (Non-AI)  
+- 🤖 **Payroll AI Assistant with Chatbot** – AI-powered chatbot to assist with payroll queries and employee information (AI)  
+- 🚀 **AI Productivity Coach** – AI assistant to guide, motivate, and optimize personal productivity (AI)
+
