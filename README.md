@@ -1,7 +1,7 @@
 <!-- Centered Typing Animation -->
 <p align="center">
   <a href="https://github.com/jeetsaha1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
   </a>
 </p>
 
