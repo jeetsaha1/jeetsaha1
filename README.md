@@ -31,7 +31,7 @@ I’m a B.Tech CSE student passionate about building intelligent systems and exp
 ### 📫 Connect with Me:
 - Email: jeet2022saha@gmail.com  
 - LinkedIn: [linkedin.com/in/jeetsaha1](https://www.linkedin.com/in/jeet-saha1)  
-- Instagram: [@jeet.saha](https://instagram.com/jeetsaha800)
+- Instagram: [jeetsaha800](https://www.instagram.com/jeetsaha800/)
 
 ---
 
