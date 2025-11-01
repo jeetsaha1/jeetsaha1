@@ -1,10 +1,18 @@
 <!-- Centered Typing Animation -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jeetsaha1">
     <h1><center>Jeet Saha</center></h1>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
   </a>
+</p> -->
+<!-- Centered Typing Animation -->
+<p align="center" style="display:flex; flex-direction:column; justify-content:center; align-items:center; height:100vh; margin:0;">
+  <a href="https://github.com/jeetsaha1" style="text-decoration:none; color:inherit;">
+    <h1 style="margin:0;">Jeet Saha</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
+  </a>
 </p>
+
 
 </p>
 <h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
