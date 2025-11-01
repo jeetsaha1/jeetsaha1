@@ -1,12 +1,31 @@
 <!-- Centered Typing Animation -->
-<div align="center">
+<!-- <div align="center">
   <h1 style="font-size: 10rem; background: linear-gradient(90deg, #ff512f, #dd2476, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px; text-decoration: none;">
     Jeet Saha
   </h1>
   <a href="https://github.com/jeetsaha1" style="text-decoration: none;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
   </a>
+</div> -->
+
+
+<div align="center">
+  <h1>
+    <font color="#ff512f">J</font>
+    <font color="#dd2476">e</font>
+    <font color="#00c6ff">e</font>
+    <font color="#0072ff">t</font>
+    &nbsp;
+    <font color="#ff512f">S</font>
+    <font color="#dd2476">a</font>
+    <font color="#00c6ff">h</font>
+    <font color="#0072ff">a</font>
+  </h1>
+  <a href="https://github.com/jeetsaha1" style="text-decoration:none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
+  </a>
 </div>
+
 
 </p>
 <h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
