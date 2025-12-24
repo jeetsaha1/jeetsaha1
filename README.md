@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>
@@ -9,9 +10,26 @@
   </span>
 </h1>
 
-<a href="https://github.com/jeetsaha1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hi+👋,+I'm+Jeet+Saha;AI+%26+Data+Science+Explorer;Building+Study+Mate+AI+🚀;Frontend+%2B+Backend+Developer;Making+Education+Smarter+🎓&fontSize=28" />
-</a>
+<img
+  src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/examples/typing.gif"
+  width="750"
+/>
+
+<h3>
+Living in a world of infinite loops with a defined purpose.
+</h3>
+
+</div>
+
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/examples/typing.gif"
+    width="750"
+    alt="Typing animation"
+  />
+</div>
+
 
 </div>
 
@@ -71,16 +89,29 @@ I enjoy solving real-world problems by combining:
 ---
 
 ## 📈 Contribution Activity Graph
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&theme=react-dark&hide_border=true" />
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"
+    alt="Contribution animation"
+  />
 </div>
+
 
 ---
 
 ## 🏆 GitHub Achievements
+## 📊 GitHub Performance
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeetsaha1&theme=radical&row=1&no-frame=true" />
+  <img
+    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/demo/stats.gif"
+    height="180"
+    alt="GitHub stats animation"
+  />
 </div>
+
 
 ---
 
