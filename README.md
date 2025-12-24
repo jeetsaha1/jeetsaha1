@@ -1,118 +1,70 @@
+<!-- Centered Typing Animation -->
 <div align="center">
-
-<h1>
-  <span style="background: linear-gradient(90deg,#ff512f,#dd2476,#00c6ff,#0072ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 3rem;">
+  <h1 style="font-size: 10rem; background: linear-gradient(90deg, #ff512f, #dd2476, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px; color = 'red' ;text-decoration: none;">
     Jeet Saha
-  </span>
-</h1>
+  </h1>
+  <a href="https://github.com/jeetsaha1" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
+  </a>
+</div> 
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Jeet+Saha;Building+Study+Mate+AI+🚀;Frontend+%2B+Backend+Developer;Making+Education+Smarter+🎓"
-  alt="Typing SVG"
-/>
 
-<h3>
-Living in a world of infinite loops with a defined purpose.
-</h3>
+<!-- <div align="center">
+  <h1>
+    <font color="#ff512f">J</font>
+    <font color="#dd2476">e</font>
+    <font color="#00c6ff">e</font>
+    <font color="#0072ff">t</font>
+    &nbsp;
+    <font color="#ff512f">S</font>
+    <font color="#dd2476">a</font>
+    <font color="#00c6ff">h</font>
+    <font color="#0072ff">a</font>
+  </h1>
+  <a href="https://github.com/jeetsaha1" style="text-decoration:none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
+  </a>
+</div> -->
 
-</div>
 
----
+</p>
+<h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
 
-## 👨‍💻 About Me
-
-I am a **B.Tech Computer Science & Engineering student** passionate about building  
-**intelligent, human-centric AI systems**.
-
-My interests include:
-- AI & Machine Learning  
-- Education Technology  
-- Emotion-aware and productivity-focused systems  
-- Clean backend APIs and intuitive UI design  
-
----
-
-## 🚀 What I’m Doing Now
-
-- 🔭 Working on **Study Mate AI** – an AI-powered virtual student mentor  
-- 📚 Learning **Data Structures & Algorithms** and **System Design**  
-- 🧠 Exploring **AI APIs, NLP, and backend development**  
-- 🎯 Goal: *Make education accessible, intelligent, and empathetic*
+- 🔭 Currently working on: **Study Mate AI - Virtual student assistant**
+- 📚 Learning: **Data Structure and Algorithm and Web Development**
+- 🧠 Exploring: **AI, Frontend and Backend APIs**
+- ❤️ Passionate about: **Tech that helps others**
+- 🎯 Goal: *Making education accessible and intelligent for all*
 
 ---
-
-## 🛠️ Tech Stack
-
-### Languages
-`Python` `C` `Java` `JavaScript`
-
-### AI / Data
-`Machine Learning` `NLP` `Pandas` `NumPy` `Scikit-learn`
-
-### Web & Backend
-`HTML` `CSS` `JavaScript` `FastAPI` `REST APIs`
-
-### Tools & Platforms
-`Git` `GitHub` `Docker (Basics)` `Linux` `VS Code`
-
----
-
-## 📊 Contribution Activity
-
-GitHub automatically displays my **live contribution graph** on my profile.
-
-👉 **View my real contribution graph here:**  
-🔗 https://github.com/jeetsaha1
-
-> This graph updates in real time and reflects my actual activity across repositories.
-
----
-
-## 📌 Featured Projects
-
-### 🛡 AI-Guardian-for-Women-Safety
-AI-based safety system designed to assist women during emergency situations.
-
-### 🎓 Study Mate AI
-AI-powered virtual student mentor providing:
-- Personalized academic guidance  
-- Emotional support & stress management  
-
-### 🚀 AI Productivity Coach
-AI assistant to improve focus, planning, and productivity.
-
-### 💼 Payroll AI Assistant Chatbot
-AI-powered chatbot for payroll queries and employee assistance.
-
-### 🧠 Sentiment Analysis
-NLP-based sentiment detection for understanding emotional tone in text.
-
-### ⏰ Time Management System
-Task and time management system for organizing schedules and priorities.
-
----
-
-## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:jeet2022saha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jeet-saha1">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/jeetsaha800">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&theme=radical" alt="Jeet's GitHub Stats" />
 </p>
+
 
 ---
 
-<div align="center">
+### 🧑‍💻 About Me
+I’m a B.Tech CSE student passionate about building intelligent systems and exploring the intersection of emotion and education through AI. When I’m not coding, I’m either solving problems, designing intuitive UI, or thinking of the next innovation.
 
-### ⭐ If you like my work, consider starring my repositories ⭐
+---
 
-</div>
+### 📫 Connect with Me:
+- Email: jeet2022saha@gmail.com  
+- LinkedIn: [linkedin.com/in/jeetsaha1](https://www.linkedin.com/in/jeet-saha1)  
+- Instagram: [jeetsaha800](https://www.instagram.com/jeetsaha800/)
+
+---
+
+### 📌 Projects Highlight:
+- 🎓 **Study Mate AI** – AI-based student mentor & stress management bot  
+- 🧠 **Sentiment Analyzer** – NLP project to detect emotional tones  
+- 🤖 **J.A.R.V.I.S** – This is my personal project, making own personal AI Assistant
+- 💼 **Payroll Management System** – Desktop application to manage employee salaries, deductions, and payslips (Non-AI)  
+- ⏰ **Time Management System** – Task management app with deadlines, priorities, and completion tracking (Non-AI)  
+- 🤖 **Payroll AI Assistant with Chatbot** – AI-powered chatbot to assist with payroll queries and employee information (AI)  
+- 🚀 **AI Productivity Coach** – AI assistant to guide, motivate, and optimize personal productivity (AI)
+
+
+this is the total README.md
