@@ -9,6 +9,11 @@
 </div> 
 
 
+<p align="center">
+  <img src="./contribution-graph.png" alt="Contribution Graph" />
+</p>
+
+
 <!-- <div align="center">
   <h1>
     <font color="#ff512f">J</font>
