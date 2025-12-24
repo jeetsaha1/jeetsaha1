@@ -27,28 +27,24 @@ Living in a world of infinite loops with a defined purpose.
 I am a **B.Tech Computer Science & Engineering student** passionate about building  
 **intelligent, human-centric AI systems**.
 
-My work focuses on:
-- Education technology  
-- AI-powered mentorship  
-- Emotion-aware and productivity-focused systems  
-
-I enjoy solving real-world problems by combining:
+My interests include:
 - AI & Machine Learning  
-- Clean backend APIs  
-- Intuitive frontend experiences  
+- Education Technology  
+- Emotion-aware and productivity-focused systems  
+- Clean backend APIs and intuitive UI design  
 
 ---
 
 ## 🚀 What I’m Doing Now
 
-- 🔭 Building **Study Mate AI** – an AI-powered virtual student mentor  
-- 📚 Learning **Data Structures & Algorithms**, **System Design**, and **Full-Stack Development**  
-- 🧠 Exploring **AI APIs, NLP, and Emotion Intelligence**  
+- 🔭 Working on **Study Mate AI** – an AI-powered virtual student mentor  
+- 📚 Learning **Data Structures & Algorithms** and **System Design**  
+- 🧠 Exploring **AI APIs, NLP, and backend development**  
 - 🎯 Goal: *Make education accessible, intelligent, and empathetic*
 
 ---
 
-## 🛠️ Tech Stack (ATS-Friendly)
+## 🛠️ Tech Stack
 
 ### Languages
 `Python` `C` `Java` `JavaScript`
@@ -64,16 +60,14 @@ I enjoy solving real-world problems by combining:
 
 ---
 
-## 📈 Contribution Activity
+## 📊 Contribution Activity
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-contribution-grid-snake.gif"
-    alt="Contribution snake animation"
-  />
-</div>
+GitHub automatically displays my **live contribution graph** on my profile.
 
-> *Auto-updating visual representation of my GitHub contributions.*
+👉 **View my real contribution graph here:**  
+🔗 https://github.com/jeetsaha1
+
+> This graph updates in real time and reflects my actual activity across repositories.
 
 ---
 
