@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <span style="background: linear-gradient(90deg,#ff512f,#dd2476,#00c6ff,#0072ff);
+  <span  style="background: linear-gradient(90deg,#ff512f,#dd2476,#00c6ff,#0072ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 3rem;">
