@@ -37,6 +37,16 @@
 - 🎯 Goal: *Making education accessible and intelligent for all*
 
 ---
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="Contribution Graph"
+  />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&theme=radical" alt="Jeet's GitHub Stats" />
