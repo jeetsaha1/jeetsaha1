@@ -9,10 +9,17 @@
 </div> 
 
 
-<p align="center">
-  <img src="./contribution-graph.png" alt="Contribution Graph" />
-</p>
+## 📊 GitHub Performance
 
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeetsaha1&show_icons=true&theme=radical&rank_icon=github" />
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsaha1&theme=radical" />
+
+</div>
+
+---
 
 <!-- <div align="center">
   <h1>
