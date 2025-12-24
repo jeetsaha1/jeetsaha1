@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <span  style="background: linear-gradient(90deg,#ff512f,#dd2476,#00c6ff,#0072ff);
+  <span style="background: linear-gradient(90deg,#ff512f,#dd2476,#00c6ff,#0072ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-size: 3rem;">
@@ -9,7 +9,10 @@
   </span>
 </h1>
 
-<img src="./typing.gif" width="750" alt="Typing animation" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Jeet+Saha;Building+Study+Mate+AI+🚀;Frontend+%2B+Backend+Developer;Making+Education+Smarter+🎓"
+  alt="Typing SVG"
+/>
 
 <h3>
 Living in a world of infinite loops with a defined purpose.
@@ -76,31 +79,25 @@ I enjoy solving real-world problems by combining:
 
 ## 📌 Featured Projects
 
+### 🛡 AI-Guardian-for-Women-Safety
+AI-based safety system designed to assist women during emergency situations.
+
 ### 🎓 Study Mate AI
-**AI-powered virtual student mentor**
+AI-powered virtual student mentor providing:
 - Personalized academic guidance  
 - Emotional support & stress management  
-- Intelligent conversational system  
-
-### 🧠 Sentiment Analysis
-- NLP-based emotion detection  
-- Text polarity & sentiment classification  
-
-### 🤖 J.A.R.V.I.S
-- Personal AI assistant  
-- Task automation & intelligent responses  
-
-### 💼 Payroll AI Assistant Chatbot
-- AI-powered payroll query assistant  
-- Salary and employee information support  
-
-### ⏰ Time Management System
-- Task prioritization & deadline tracking  
-- Productivity-focused design  
 
 ### 🚀 AI Productivity Coach
-- AI-based motivation & productivity assistant  
-- Goal tracking & optimization logic  
+AI assistant to improve focus, planning, and productivity.
+
+### 💼 Payroll AI Assistant Chatbot
+AI-powered chatbot for payroll queries and employee assistance.
+
+### 🧠 Sentiment Analysis
+NLP-based sentiment detection for understanding emotional tone in text.
+
+### ⏰ Time Management System
+Task and time management system for organizing schedules and priorities.
 
 ---
 
