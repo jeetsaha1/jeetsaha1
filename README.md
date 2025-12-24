@@ -9,14 +9,9 @@
 </div> 
 
 
-## 📊 GitHub Performance
-
+## 📈 Contribution Activity Graph
 <div align="center">
-
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeetsaha1&show_icons=true&theme=radical&rank_icon=github" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsaha1&theme=radical" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&theme=react-dark&hide_border=true" />
 </div>
 
 ---
