@@ -33,13 +33,7 @@ Living in a world of infinite loops with a defined purpose.
 
 </div>
 
----
 
-<h3 align="center">
-Living in a world of infinite loops with a defined purpose.
-</h3>
-
----
 
 ## 👨‍💻 About Me
 I am a **B.Tech CSE student** passionate about building **intelligent, human-centric AI systems**.  
