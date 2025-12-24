@@ -9,11 +9,7 @@
   </span>
 </h1>
 
-<img
-  src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/examples/typing.gif"
-  width="750"
-  alt="Typing animation"
-/>
+<img src="./typing.gif" width="750" alt="Typing animation" />
 
 <h3>
 Living in a world of infinite loops with a defined purpose.
@@ -25,8 +21,13 @@ Living in a world of infinite loops with a defined purpose.
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech CSE student** passionate about building **intelligent, human-centric AI systems**.  
-My work focuses on **education technology**, **AI-powered mentorship**, and **emotion-aware systems** that genuinely help people.
+I am a **B.Tech Computer Science & Engineering student** passionate about building  
+**intelligent, human-centric AI systems**.
+
+My work focuses on:
+- Education technology  
+- AI-powered mentorship  
+- Emotion-aware and productivity-focused systems  
 
 I enjoy solving real-world problems by combining:
 - AI & Machine Learning  
@@ -38,7 +39,7 @@ I enjoy solving real-world problems by combining:
 ## 🚀 What I’m Doing Now
 
 - 🔭 Building **Study Mate AI** – an AI-powered virtual student mentor  
-- 📚 Learning **DSA, System Design, and Full-Stack Development**  
+- 📚 Learning **Data Structures & Algorithms**, **System Design**, and **Full-Stack Development**  
 - 🧠 Exploring **AI APIs, NLP, and Emotion Intelligence**  
 - 🎯 Goal: *Make education accessible, intelligent, and empathetic*
 
@@ -52,26 +53,11 @@ I enjoy solving real-world problems by combining:
 ### AI / Data
 `Machine Learning` `NLP` `Pandas` `NumPy` `Scikit-learn`
 
-### Web Development
+### Web & Backend
 `HTML` `CSS` `JavaScript` `FastAPI` `REST APIs`
 
 ### Tools & Platforms
-`Git` `GitHub` `VS Code`
-
----
-
-## 📊 GitHub Performance
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/demo/stats.gif"
-    height="180"
-    alt="GitHub stats animation"
-  />
-</div>
-
-> *Static animated preview for visual engagement.  
-Live stats are available on my GitHub profile.*
+`Git` `GitHub` `Docker (Basics)` `Linux` `VS Code`
 
 ---
 
@@ -79,12 +65,12 @@ Live stats are available on my GitHub profile.*
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif"
-    alt="Contribution activity animation"
+    src="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-contribution-grid-snake.gif"
+    alt="Contribution snake animation"
   />
 </div>
 
-> *Visual representation of contribution activity.*
+> *Auto-updating visual representation of my GitHub contributions.*
 
 ---
 
@@ -94,19 +80,19 @@ Live stats are available on my GitHub profile.*
 **AI-powered virtual student mentor**
 - Personalized academic guidance  
 - Emotional support & stress management  
-- Intelligent conversation system  
+- Intelligent conversational system  
 
-### 🧠 Sentiment Analyzer
+### 🧠 Sentiment Analysis
 - NLP-based emotion detection  
-- Text polarity & sentiment analysis  
+- Text polarity & sentiment classification  
 
 ### 🤖 J.A.R.V.I.S
 - Personal AI assistant  
 - Task automation & intelligent responses  
 
-### 💼 Payroll Management System
-- Desktop application (Non-AI)  
-- Salary calculation, deductions & payslips  
+### 💼 Payroll AI Assistant Chatbot
+- AI-powered payroll query assistant  
+- Salary and employee information support  
 
 ### ⏰ Time Management System
 - Task prioritization & deadline tracking  
@@ -118,11 +104,19 @@ Live stats are available on my GitHub profile.*
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- 📧 Email: **jeet2022saha@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/jeet-saha1](https://www.linkedin.com/in/jeet-saha1)  
-- 📸 Instagram: [@jeetsaha800](https://www.instagram.com/jeetsaha800)
+<p align="center">
+  <a href="mailto:jeet2022saha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeet-saha1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/jeetsaha800">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
