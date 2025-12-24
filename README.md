@@ -56,7 +56,7 @@ I enjoy solving real-world problems by combining:
 `HTML` `CSS` `JavaScript` `FastAPI` `REST APIs`
 
 ### Tools & Platforms
-`Git` `GitHub` `Docker (Basics)` `Linux` `VS Code`
+`Git` `GitHub` `VS Code`
 
 ---
 
