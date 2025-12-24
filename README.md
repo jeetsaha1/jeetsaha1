@@ -1,123 +1,116 @@
 <div align="center">
 
-<h1>
-  <span style="background: linear-gradient(90deg,#ff512f,#dd2476,#00c6ff,#0072ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 3rem;">
-    Jeet Saha
-  </span>
-</h1>
+# Jeet Saha
 
-<a href="https://github.com/jeetsaha1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Hi+👋,+I'm+Jeet+Saha;AI+%26+Data+Science+Explorer;Building+Study+Mate+AI+🚀;Frontend+%2B+Backend+Developer;Making+Education+Smarter+🎓&fontSize=28" />
-</a>
+### Living in a world of infinite loops with a defined purpose.
 
 </div>
-
----
-
-<h3 align="center">
-Living in a world of infinite loops with a defined purpose.
-</h3>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **B.Tech CSE student** passionate about building **intelligent, human-centric AI systems**.  
-My work focuses on **education technology**, **AI-powered mentorship**, and **emotion-aware systems** that genuinely help people.
 
-I enjoy solving real-world problems by combining:
-- AI & Machine Learning  
-- Clean backend APIs  
-- Intuitive frontend experiences  
+I am a **B.Tech Computer Science & Engineering student** passionate about building  
+**intelligent, practical, and socially impactful software systems**.
 
----
-
-## 🚀 What I’m Doing Now
-- 🔭 Building **Study Mate AI** – an AI-powered virtual student mentor  
-- 📚 Learning **DSA, System Design, and Full-Stack Development**  
-- 🧠 Exploring **AI APIs, NLP, Emotion Intelligence**  
-- 🎯 Goal: *Make education accessible, intelligent, and empathetic*
+My interests include:
+- Artificial Intelligence & Machine Learning  
+- Emotion-aware and productivity-focused AI systems  
+- Core Computer Science & problem solving  
+- Building tools that help people in real life  
 
 ---
 
-## 🛠️ Tech Stack (ATS-Friendly)
+## 🚀 What I’m Currently Doing
 
-### Languages
-`Python` `C` `Java` `JavaScript`
+- 🔭 Developing **AI-powered assistants** for education, safety, and productivity  
+- 📚 Strengthening **Data Structures & Algorithms**  
+- 🧠 Exploring **AI, NLP, backend APIs, and system design**  
+- 🎯 Goal: *Build intelligent systems that positively impact society*
 
-### AI / Data
-`Machine Learning` `NLP` `Pandas` `NumPy` `Scikit-learn`
+---
 
-### Web Development
-`HTML` `CSS` `JavaScript` `FastAPI` `REST APIs`
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python  
+- C  
+- Java  
+- JavaScript  
+
+### AI / Data Science
+- Machine Learning  
+- Natural Language Processing  
+- NumPy, Pandas  
+- Scikit-learn  
+
+### Web & Backend
+- HTML, CSS  
+- JavaScript  
+- REST APIs  
+- FastAPI (Basics)  
 
 ### Tools & Platforms
-`Git` `GitHub` `Docker (Basics)` `Linux` `VS Code`
+- Git & GitHub  
+- Linux  
+- Docker (Basics)  
+- VS Code  
 
 ---
 
-## 📊 GitHub Performance
+## 📌 Pinned Projects
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeetsaha1&show_icons=true&theme=radical&rank_icon=github" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsaha1&theme=radical" />
-
-</div>
-
----
-
-## 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&theme=react-dark&hide_border=true" />
-</div>
+| Project | Description |
+|-------|-------------|
+| 🛡 **AI-Guardian-for-Women-Safety** | AI-based safety system designed to assist and protect women in emergency situations. |
+| 🚀 **AI-Productivity-Coach** | AI assistant that helps users plan, focus, and optimize daily productivity. |
+| 💼 **Payroll-AI-Assistant-Chatbot** | Intelligent chatbot for payroll queries, salary details, and employee assistance. |
+| 🧠 **SentimentAnalysis** | NLP-based sentiment analysis project for detecting emotional tone in text. |
+| 🎓 **Study-Mate-AI** | AI-powered virtual study companion providing academic and emotional support. |
+| ⏰ **Time-Management-System** | Task and time management system for organizing schedules and priorities. |
 
 ---
 
-## 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeetsaha1&theme=radical&row=1&no-frame=true" />
-</div>
+## 📊 Stats & Activity
+
+### 💻 Most Used Languages (based on my projects)
+
+Python ██████████████████ 35%
+HTML/CSS ███████████ 20%
+C █████████ 15%
+JavaScript ██████ 10%
+Java █████ 8%
+C++ ████ 7%
+Other ██ 5%
+
+yaml
+Copy code
 
 ---
 
-## 📌 Featured Projects
+## 🚧 Project Focus Areas
 
-### 🎓 Study Mate AI
-**AI-powered virtual student mentor**
-- Personalized academic guidance
-- Emotional support & stress management
-- Intelligent conversation system
-
-### 🧠 Sentiment Analyzer
-- NLP-based emotion detection system
-- Text polarity & emotional tone analysis
-
-### 🤖 J.A.R.V.I.S
-- Personal AI assistant project
-- Task automation & intelligent responses
-
-### 💼 Payroll Management System
-- Desktop application (Non-AI)
-- Salary calculation, deductions & payslips
-
-### ⏰ Time Management System
-- Task prioritization & deadline tracking
-- Productivity-focused design
-
-### 🚀 AI Productivity Coach
-- AI-based motivation & productivity assistant
-- Goal tracking & optimization logic
+- 🎓 AI in Education  
+- 🧠 Emotion & Sentiment Analysis  
+- 🛡 AI for Social Good & Safety  
+- 🚀 Productivity & Personal Assistance  
+- 💼 Intelligent Automation Systems  
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: **jeet2022saha@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/jeet-saha1](https://www.linkedin.com/in/jeet-saha1)
-- 📸 Instagram: [@jeetsaha800](https://www.instagram.com/jeetsaha800)
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:jeet2022saha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jeet-saha1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/jeetsaha800">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
