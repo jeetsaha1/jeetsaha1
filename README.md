@@ -15,10 +15,10 @@
 </p>
 <h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
 
-- 🔭 Currently working on: **Study Mate AI - Virtual student assistant**
-- 📚 Learning: **Data Structure and Algorithm and Web Development**
+- 🔭 Currently working on: **Backward facing step Channel, based on Computational Fluid Dynamics**
+- 📚 Learning: **Data Structure and Algorithm and Web Development, Design and Analysis**
 - 🧠 Exploring: **AI, Frontend and Backend APIs**
-- ❤️ Passionate about: **Tech that helps others**
+- ❤️ Passionate about: **Tech that helps others, Machine Learning**
 - 🎯 Goal: *Making education accessible and intelligent for all*
 
 ---
