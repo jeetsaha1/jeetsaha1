@@ -18,9 +18,10 @@
 
 # 🧑‍💻 About Me
 
-
+```cpp
 class JeetSaha {
     String role = "B.Tech CSE Student";
+
     String[] interests = {
         "Artificial Intelligence",
         "Machine Learning",
@@ -28,9 +29,10 @@ class JeetSaha {
         "Computational Fluid Dynamics",
         "Problem Solving"
     };
+
     String currentFocus = "Building intelligent systems for education";
 }
-
+```
 
 * 🔭 Currently working on: **Backward Facing Step Channel using Computational Fluid Dynamics**
 * 🌱 Currently learning: **Data Structures & Algorithms, Web Development, Design & Analysis**
