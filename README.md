@@ -1,4 +1,4 @@
-````md
+
 <!-- ========================= HEADER ========================= -->
 
 <div align="center">
@@ -31,7 +31,7 @@ class JeetSaha {
 
     String currentFocus = "Building intelligent systems for education";
 }
-````
+
 
 * 🔭 Currently working on: **Backward Facing Step Channel using Computational Fluid Dynamics**
 * 🌱 Currently learning: **Data Structures & Algorithms, Web Development, Design & Analysis**
