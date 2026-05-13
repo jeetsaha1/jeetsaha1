@@ -83,7 +83,7 @@
 ## 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,vite" />
 </p>
 
 ---
