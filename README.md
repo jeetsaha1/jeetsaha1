@@ -26,16 +26,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
 - 🎓 B.Tech CSE Student  
 - 🤖 AI & Machine Learning Enthusiast  
 - 🌐 Frontend + Backend Developer  
@@ -44,6 +34,15 @@
 - 🚀 Creator of **Study Mate AI**  
 - 🧠 Interested in APIs, ML, and Smart Systems  
 - ⚡ “Code • Learn • Build • Repeat”
+
+---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
