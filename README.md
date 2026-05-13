@@ -15,6 +15,7 @@
 
 ---
 
+
 # 🧑‍💻 About Me
 
 
@@ -28,7 +29,7 @@ class JeetSaha {
         "Computational Fluid Dynamics",
         "Problem Solving"
     };
- 
+
     String currentFocus = "Building intelligent systems for education";
 }
 
@@ -39,6 +40,7 @@ class JeetSaha {
 * ❤️ Passionate about: **Tech that helps people**
 * 🎯 Goal: **Making education accessible and intelligent for everyone**
 * ⚡ Fun fact: **I debug more than I sleep**
+
 
 ---
 
@@ -195,4 +197,4 @@ class JeetSaha {
 ### ✨ Code • Learn • Build • Repeat ✨
 
 </div>
-```
+
