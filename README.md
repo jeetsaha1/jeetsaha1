@@ -5,7 +5,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Jeet Saha
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Developer+%F0%9F%8C%90;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Future+AI+Engineer+%F0%9F%94%A5;Making+Education+Smarter+%F0%9F%8E%93" />
+
 
 <h3>Living in a world of infinite loops and defined purpose.</h3>
 
