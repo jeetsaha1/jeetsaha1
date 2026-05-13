@@ -130,25 +130,9 @@
 
 ---
 
-# 📈 Contribution Activity
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
-</div>
-
----
-
-# 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&theme=tokyo-night&hide_border=true&radius=16" />
-
-</div>
-
----
 
 # 🏆 GitHub Achievements
 
