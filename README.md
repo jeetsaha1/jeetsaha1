@@ -15,48 +15,35 @@
 
 ---
 
+
 # 🧑‍💻 About Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+Explorer+%F0%9F%A4%96;B.Tech+CSE+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Frontend+%2B+Backend+Developer+%F0%9F%8C%90;Building+Study+Mate+AI+%F0%9F%9A%80;Exploring+Computational+Fluid+Dynamics+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Frontend+%2B+Backend+Developer+%F0%9F%8C%90;Building+Study+Mate+AI+%F0%9F%9A%80;Exploring+Computational+Fluid+Dynamics+%F0%9F%94%A5;Passionate+About+Smart+Education+%F0%9F%8E%AF" />
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+---
 
-```cpp
-class JeetSaha {
+- 🎓 B.Tech CSE Student  
+- 🤖 AI & Machine Learning Enthusiast  
+- 🌐 Frontend + Backend Developer  
+- 🔬 Exploring Computational Fluid Dynamics  
+- 💡 Building intelligent systems for education  
+- 🚀 Creator of **Study Mate AI**  
+- 🧠 Interested in APIs, ML, and Smart Systems  
+- ⚡ “Code • Learn • Build • Repeat”
 
-    String role = "B.Tech CSE Student";
+---
 
-    String[] interests = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Computational Fluid Dynamics",
-        "Problem Solving"
-    };
-
-    String currentFocus =
-        "Building intelligent systems for education";
-
-    String lifePhilosophy =
-        "Code • Learn • Build • Repeat";
-}
-````
-
-</td>
-
-<td width="50%">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha1&layout=compact&theme=tokyonight&hide_border=true" />
 
-</td>
-</tr>
-</table>
+</div>
+```
+
 
 ---
 
@@ -66,9 +53,6 @@ class JeetSaha {
 * ❤️ Passionate about: **Tech that helps people**
 * 🎯 Goal: **Making education accessible and intelligent for everyone**
 * ⚡ Fun fact: **I debug more than I sleep**
-
-```
-```
 
 
 ---
