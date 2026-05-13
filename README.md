@@ -103,7 +103,7 @@
 ## ☁️ Cloud & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,vercel,jupyter-notebook,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,jupyter,vscode,intellij" />
 </p>
 
 ---
