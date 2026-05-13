@@ -17,7 +17,7 @@
 
 # 🧑‍💻 About Me
 
-```cpp
+
 class JeetSaha {
     String role = "B.Tech CSE Student";
 
