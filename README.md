@@ -91,7 +91,7 @@
 ## 🤖 AI / ML / Data Science
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,fastapi,flask" />
 </p>
 
 <p align="left">
@@ -103,7 +103,7 @@
 ## ☁️ Cloud & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,github,git,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,jupyter-notebook,vscode" />
 </p>
 
 ---
