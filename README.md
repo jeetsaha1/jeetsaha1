@@ -15,9 +15,10 @@
 
 ---
 
+````md id="p2ep6t"
 # 🧑‍💻 About Me
 
-
+```cpp
 class JeetSaha {
     String role = "B.Tech CSE Student";
 
@@ -31,7 +32,7 @@ class JeetSaha {
 
     String currentFocus = "Building intelligent systems for education";
 }
-
+````
 
 * 🔭 Currently working on: **Backward Facing Step Channel using Computational Fluid Dynamics**
 * 🌱 Currently learning: **Data Structures & Algorithms, Web Development, Design & Analysis**
@@ -40,7 +41,8 @@ class JeetSaha {
 * 🎯 Goal: **Making education accessible and intelligent for everyone**
 * ⚡ Fun fact: **I debug more than I sleep**
 
----
+```
+```
 
 # 🚀 Featured Projects
 
