@@ -143,6 +143,7 @@
 
 ---
 
+
 # 🌐 Connect With Me
 
 <div align="center">
@@ -151,19 +152,25 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jeet-saha1">
+<a href="https://www.linkedin.com/in/jeetsaha1/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/jeetsaha800/">
+<a href="https://www.instagram.com/jeetsaha800/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/jeetsaha1">
+<a href="https://github.com/jeetsaha1/jeetsaha1" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.facebook.com/jeet.saha.886887" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
 </div>
+
+
 
 ---
 
