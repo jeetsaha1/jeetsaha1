@@ -1,69 +1,198 @@
-<!-- Centered Typing Animation -->
+````md
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
-  <h1 style="font-size: 10rem; background: linear-gradient(90deg, #ff512f, #dd2476, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 10px; color = 'red' ;text-decoration: none;">
-    Jeet Saha
-  </h1>
-  <a href="https://github.com/jeetsaha1" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Jeet+Saha;AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Learner+%F0%9F%8C%90;Making+Education+Smarter+%F0%9F%8E%93&fontSize=30" alt="Typing SVG" />
-  </a>
-</div> 
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Jeet Saha
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Explorer+%F0%9F%A4%96;Building+Study+Mate+AI+%F0%9F%9A%80;Frontend+%2B+Backend+Developer+%F0%9F%8C%90;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Future+AI+Engineer+%F0%9F%94%A5;Making+Education+Smarter+%F0%9F%8E%93" />
 
+<h3>Living in a world of infinite loops and defined purpose.</h3>
 
+<img src="https://komarev.com/ghpvc/?username=jeetsaha1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-</p>
-<h3 align="center">Living in a world of infinite loops and defined purpose.</h3>
-
-- 🔭 Currently working on: **Backward facing step Channel, based on Computational Fluid Dynamics**
-- 📚 Learning: **Data Structure and Algorithm and Web Development, Design and Analysis**
-- 🧠 Exploring: **AI, Frontend and Backend APIs**
-- ❤️ Passionate about: **Tech that helps others, Machine Learning**
-- 🎯 Goal: *Making education accessible and intelligent for all*
-
----
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    alt="Contribution Graph"
-  />
-</p>
-
-
-
-
-
-## 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&theme=react-dark&hide_border=true" />
 </div>
 
 ---
 
-### 🧑‍💻 About Me
-I’m a B.Tech CSE student passionate about building intelligent systems and exploring the intersection of emotion and education through AI. When I’m not coding, I’m either solving problems, designing intuitive UI, or thinking of the next innovation.
+# 🧑‍💻 About Me
+
+```cpp
+class JeetSaha {
+    String role = "B.Tech CSE Student";
+
+    String[] interests = {
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Web Development",
+        "Computational Fluid Dynamics",
+        "Problem Solving"
+    };
+
+    String currentFocus = "Building intelligent systems for education";
+}
+````
+
+* 🔭 Currently working on: **Backward Facing Step Channel using Computational Fluid Dynamics**
+* 🌱 Currently learning: **Data Structures & Algorithms, Web Development, Design & Analysis**
+* 🧠 Exploring: **AI, APIs, Frontend + Backend Development**
+* ❤️ Passionate about: **Tech that helps people**
+* 🎯 Goal: **Making education accessible and intelligent for everyone**
+* ⚡ Fun fact: **I debug more than I sleep**
 
 ---
 
-### 📫 Connect with Me:
-- Email: jeet2022saha@gmail.com  
-- LinkedIn: [linkedin.com/in/jeetsaha1](https://www.linkedin.com/in/jeet-saha1)  
-- Instagram: [jeetsaha800](https://www.instagram.com/jeetsaha800/)
+# 🚀 Featured Projects
+
+| Project                          | Description                                              |
+| -------------------------------- | -------------------------------------------------------- |
+| 🎓 **Study Mate AI**             | AI-based student mentor & stress management assistant    |
+| 🤖 **J.A.R.V.I.S**               | Personal AI assistant inspired by intelligent automation |
+| 🧠 **Sentiment Analyzer**        | NLP-based emotional tone detection system                |
+| 💼 **Payroll Management System** | Employee salary & payroll desktop management system      |
+| ⏰ **Time Management System**     | Productivity & task management application               |
+| 🤖 **Payroll AI Assistant**      | AI chatbot for payroll-related employee assistance       |
+| 🚀 **AI Productivity Coach**     | AI assistant for motivation & productivity improvement   |
 
 ---
 
-### 📌 Projects Highlight:
-- 🎓 **Study Mate AI** – AI-based student mentor & stress management bot  
-- 🧠 **Sentiment Analyzer** – NLP project to detect emotional tones  
-- 🤖 **J.A.R.V.I.S** – This is my personal project, making own personal AI Assistant
-- 💼 **Payroll Management System** – Desktop application to manage employee salaries, deductions, and payslips (Non-AI)  
-- ⏰ **Time Management System** – Task management app with deadlines, priorities, and completion tracking (Non-AI)  
-- 🤖 **Payroll AI Assistant with Chatbot** – AI-powered chatbot to assist with payroll queries and employee information (AI)  
-- 🚀 **AI Productivity Coach** – AI assistant to guide, motivate, and optimize personal productivity (AI)
+# 🛠️ Technical Skills
 
+## 💻 Languages
 
-this is the total README.md
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,vite" />
+</p>
+
+---
+
+## 🤖 AI / ML / Data Science
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,matplotlib,seaborn" />
+</p>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,github,git,vercel,render" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jeetsaha1&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jeetsaha1&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:jeet2022saha@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jeet-saha1">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jeetsaha800/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jeetsaha1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Code • Learn • Build • Repeat ✨
+
+</div>
+```
