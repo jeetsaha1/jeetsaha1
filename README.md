@@ -103,9 +103,9 @@
 ## ☁️ Cloud & Deployment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,vercel,jupyter,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=github,git,vercel,vscode,intellij" />
 </p>
-
+<p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter" /> </p>
 ---
 
 
