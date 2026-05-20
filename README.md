@@ -30,8 +30,7 @@
 - 🤖 AI & Machine Learning Enthusiast  
 - 🌐 Frontend + Backend Developer  
 - 🔬 Exploring Computational Fluid Dynamics  
-- 💡 Building intelligent systems for education  
-- 🚀 Creator of **Study Mate AI**  
+- 💡 Building intelligent systems for education   
 - 🧠 Interested in APIs, ML, and Smart Systems  
 - ⚡ “Code • Learn • Build • Repeat”
 
@@ -60,7 +59,6 @@
 
 | Project                          | Description                                              |
 | -------------------------------- | -------------------------------------------------------- |
-| 🎓 **Study Mate AI**             | AI-based student mentor & stress management assistant    |
 | 🤖 **J.A.R.V.I.S**               | Personal AI assistant inspired by intelligent automation |
 | 🧠 **Sentiment Analyzer**        | NLP-based emotional tone detection system                |
 | 💼 **Payroll Management System** | Employee salary & payroll desktop management system      |
