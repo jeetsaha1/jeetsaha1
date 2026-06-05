@@ -119,9 +119,9 @@
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=jeetsaha1&theme=tokyonight&hide_border=true" />
-</div>
+</p>
 
 ---
 
