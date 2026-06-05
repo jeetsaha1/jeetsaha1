@@ -120,22 +120,8 @@
 # 🔥 GitHub Streak
 
 <div align="center">
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jeetsaha1&theme=tokyonight&hide_border=true" />
-</p>
 </div>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha1&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
