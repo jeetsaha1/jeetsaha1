@@ -1,207 +1,156 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Jeet%20Saha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%26%20Engineering%20%7C%20AI%2FML%20%7C%20Full-Stack%20Development&descAlignY=56&descSize=17" width="100%"/>
+<img src="./assets/hero.svg" width="100%" alt="Jeet Saha — Computer Science & Engineering, AI/ML, Full-Stack, CFD"/>
 
-<a href="https://portfolio-nine-amber-y3a4zznim0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/jeetsaha1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:jeet2022saha@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/jeetsaha1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://portfolio-nine-amber-y3a4zznim0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1117?style=for-the-badge&logo=vercel&logoColor=00E676"/></a>
+<a href="https://www.linkedin.com/in/jeetsaha1/"><img src="https://img.shields.io/badge/LinkedIn-0B1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/></a>
+<a href="mailto:jeet2022saha@gmail.com"><img src="https://img.shields.io/badge/Email-0B1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+<a href="https://github.com/jeetsaha1"><img src="https://img.shields.io/badge/GitHub-0B1117?style=for-the-badge&logo=github&logoColor=F8FAFC"/></a>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A63F5&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;CFD+Researcher+%40+IEM+Kolkata;Building+Intelligent+Systems" />
+<img src="https://komarev.com/ghpvc/?username=jeetsaha1&color=00e676&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0B1117" alt="profile views"/>
 
 </div>
 
 <br/>
 
-## 01 — About
+## 🧠 About
 
-I'm a Computer Science & Engineering undergraduate at the **Institute of Engineering and Management, Kolkata**, with a strong interest in Artificial Intelligence and Machine Learning. I enjoy turning ambiguous ideas into working systems — from a chatbot-driven payroll platform to a personal AI assistant — and I care about precision as much as purpose in the software I build.
+I'm a Computer Science & Engineering undergraduate at the **Institute of Engineering and Management, Kolkata**, working at the intersection of AI/ML, full-stack development, and computational research. I like turning ambiguous problems into working systems — a chatbot-driven payroll platform, a personal AI assistant, or a numerical solver for fluid flow — with equal weight on precision and purpose.
 
-Beyond the classroom, I've trained across full-stack development, cybersecurity, and applied data analytics through structured internships and an international study programme, and I currently research computational fluid dynamics on a Fortran-based multi-zone solver.
-
-<table>
+<table width="100%">
 <tr>
-<td><b>📍 Based in</b></td><td>Madhyamgram, Kolkata, West Bengal, India</td>
+<td width="33%" align="center">🎓<br/><b>Education</b><br/><sub>B.Tech, CSE</sub></td>
+<td width="33%" align="center">🏫<br/><b>Institute</b><br/><sub>IEM, Kolkata</sub></td>
+<td width="33%" align="center">📊<br/><b>CGPA</b><br/><sub>9.55 (current)</sub></td>
 </tr>
 <tr>
-<td><b>🎓 Studying</b></td><td>B.Tech, Computer Science & Engineering</td>
-</tr>
-<tr>
-<td><b>🎯 Focus areas</b></td><td>AI / ML · Full-Stack Development · CFD Research · Data Analytics</td>
-</tr>
-<tr>
-<td><b>🗣️ Languages</b></td><td>English · Hindi · Bengali</td>
+<td width="33%" align="center">📍<br/><b>Location</b><br/><sub>Kolkata, India</sub></td>
+<td width="33%" align="center">🔬<br/><b>Research</b><br/><sub>Computational Fluid Dynamics</sub></td>
+<td width="33%" align="center">🤖<br/><b>Focus</b><br/><sub>AI / ML + Software Dev</sub></td>
 </tr>
 </table>
 
-## 02 — Currently
+## ⚡ Currently
 
-- 🔭 **Building:** J.A.R.V.I.S — a personalized AI assistant *(ongoing)*
-- 🧪 **Researching:** Convective flow of nanofluids in a backward-facing-step channel (CFD) *(in progress)*
-- 🌱 **Learning:** Data Structures & Algorithms, applied Machine Learning
-- ⚡ Fun fact: I debug more than I sleep
+| | | |
+|---|---|---|
+| 🤖 **J.A.R.V.I.S** <br/> Personalized AI assistant | 🧪 **CFD Research** <br/> Backward-facing-step channel, Fortran solver | 🌱 **Learning** <br/> DSA · Applied ML · Web Development |
+| `● ONGOING` | `● IN PROGRESS` | `● ACTIVE` |
 
-## 03 — Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark" />
+`Languages` &nbsp;<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
+<br/><br/>
+`Web` &nbsp;<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+<br/><br/>
+`Tools` &nbsp;<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,xampp,jupyter&theme=dark"/>
+<br/><br/>
 
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-
-**Tools & Environments**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,xampp,jupyter&theme=dark" />
-
-**Core Concepts**
-<br/>
-<img src="https://img.shields.io/badge/Data%20Structures-8A63F5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-8A63F5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-8A63F5?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures-0B1117?style=flat-square&logoColor=00E676&labelColor=0B1117&color=0F2A43"/>
+<img src="https://img.shields.io/badge/OOP-0B1117?style=flat-square&labelColor=0B1117&color=0F2A43"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1117?style=flat-square&labelColor=0B1117&color=0F2A43"/>
 
 </div>
 
-## 04 — Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+| Project | Description | Tech | Status |
+|---|---|---|---|
+| 🤖 **J.A.R.V.I.S** | Personalized AI assistant inspired by intelligent automation | `Python` `AI` | `ONGOING` |
+| 💼 **AI-Powered Payroll Management System** | Payroll management system with an integrated AI chatbot for employee assistance | `Python` `AI` | `COMPLETED` |
+| ⏰ **Time Management Web App** | Productivity and task management web application | `Web` | `COMPLETED` |
+| 🛒 **Smart Retail Shelf Analytics** | Analytics system for retail shelf monitoring | `Python` `Data` | `ONGOING` |
 
-**🤖 J.A.R.V.I.S**
-<br/>Personalized AI assistant inspired by intelligent automation.
-<br/><sub>Status: Ongoing</sub>
+*Repository links will be added here once the individual project repos are public.*
 
-</td>
-<td width="50%">
+## 🔬 Research Lab
 
-**💼 AI-Powered Payroll Management System**
-<br/>Employee payroll management system with an integrated AI chatbot for employee assistance.
-<br/><sub>Status: Completed</sub>
+<img src="./assets/research.svg" width="100%" alt="CFD research — backward-facing-step channel"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⏰ Time Management Web App**
-<br/>Productivity and task management web application.
-<br/><sub>Status: Completed</sub>
-
-</td>
-<td width="50%">
-
-**🛒 Smart Retail Shelf Analytics**
-<br/>Analytics system for retail shelf monitoring.
-<br/><sub>Status: Ongoing</sub>
-
-</td>
-</tr>
-</table>
-
-## 05 — Research
-
-**Computational Fluid Dynamics — Backward-Facing Step Channel**
-<br/>Numerical study of convective flow behavior in a backward-facing-step channel, implemented on a Fortran-based structured multi-zone solver. Work is currently in progress.
-
-## 06 — Publications
+**Publications**
 
 | Title | Status |
 |---|---|
-| An Overview of Convective Flow of Nanofluids in a Backward-Facing Step Channel: A Numerical Approach | In progress |
-| ECHO — Efficient Conflict-aware Handoff & Orchestration | In progress |
+| An Overview of Convective Flow of Nanofluids in a Backward-Facing Step Channel: A Numerical Approach | `IN PROGRESS` |
+| ECHO — Efficient Conflict-aware Handoff & Orchestration | `IN PROGRESS` |
 
-## 07 — Experience
+## 💼 Experience
 
-<table>
-<tr><td><b>Full Stack Web Development Intern</b><br/>ElevanceSkills<br/><sub>Jun 2026 – Jul 2026</sub></td></tr>
-<tr><td>
-
-- Completed industry-oriented training in full-stack web development
-- Developed a real-time web application using Spring Boot (Java)
-- Worked across frontend, backend, REST APIs, and database integration
-
-</td></tr>
-<tr><td><b>Web Development Intern</b><br/>1stop.ai — KSHITIJ, IIT Kharagpur<br/><sub>Feb 2026 – Apr 2026</sub></td></tr>
-<tr><td>
-
-- Designed and developed responsive web applications using modern web technologies
-- Applied frontend and backend concepts across practical assignments
-
-</td></tr>
-<tr><td><b>International Study Abroad Programme</b><br/>Asian Institute of Technology, Thailand<br/><sub>Jun 2026 – Jul 2026</sub></td></tr>
-<tr><td>
-
-- Completed a programme on cybersecurity and AI data analytics
-- Collaborated with international faculty and students in technical sessions
-
-</td></tr>
+<table width="100%">
+<tr><td><b>Full Stack Web Development Intern</b> — ElevanceSkills<br/><sub>Jun 2026 – Jul 2026</sub></td></tr>
+<tr><td>Industry-oriented full-stack training; built a real-time web app with Spring Boot (Java); worked across frontend, backend, REST APIs, and database integration.</td></tr>
+<tr><td><b>Web Development Intern</b> — 1stop.ai, KSHITIJ IIT Kharagpur<br/><sub>Feb 2026 – Apr 2026</sub></td></tr>
+<tr><td>Designed and developed responsive web applications; applied frontend/backend concepts across practical assignments.</td></tr>
+<tr><td><b>International Study Abroad Programme</b> — Asian Institute of Technology, Thailand<br/><sub>Jun 2026 – Jul 2026</sub></td></tr>
+<tr><td>Programme on cybersecurity and AI data analytics; collaborated with international faculty and students.</td></tr>
 </table>
 
-## 08 — Education
+## 🎓 Education
 
 **B.Tech, Computer Science & Engineering** — Institute of Engineering and Management, Kolkata
 <br/><sub>Aug 2024 – Present · CGPA: 9.55 (current)</sub>
 
-**Class 12 (Science)** — New Barrackpore Colony Boys' High School
-<br/><sub>Jan 2022 – Jan 2024 · 91%</sub>
+<sub>Class 12 (Science) — 91% &nbsp;·&nbsp; Class 10 — 89.14%</sub>
 
-## 09 — Certifications
+## 📜 Certifications
 
 - Full Stack Web Development Training — ElevanceSkills (2026)
 - Web Development Internship — 1stop.ai, KSHITIJ IIT Kharagpur (2026)
 - Web Development Training Programme — 1stop.ai, KSHITIJ IIT Kharagpur (2025–2026)
-- International Study Abroad Programme on Cybersecurity and AI Data Analytics — Asian Institute of Technology, Thailand (2026)
+- International Study Abroad Programme on Cybersecurity and AI Data Analytics — AIT, Thailand (2026)
 - Programming in Java — NPTEL
 - The Joy of Computing Using Python — NPTEL
 - Introduction to Machine Learning — NPTEL
 - What is Data Science — Coursera
 
-## 10 — Achievements & Hackathons
+## 🏆 Achievements & Hackathons
 
 🏆 **7th Rank Holder**, Department of Computer Science & Engineering, UEM Kolkata
 
-🎯 **DevSprint 2025** — ACM Student Chapter, UEM Kolkata
-<br/>🎯 **Minecraft Technical Event 2025** — ACM Student Chapter, UEM Kolkata
+🎯 DevSprint 2025 — ACM Student Chapter, UEM Kolkata
+<br/>🎯 Minecraft Technical Event 2025 — ACM Student Chapter, UEM Kolkata
 
-## 11 — GitHub Activity
+## 📊 GitHub Stats & Graphs
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63F5&icon_color=8A63F5" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A63F5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeetsaha1&show_icons=true&hide_border=true&bg_color=0B1117&title_color=00E676&icon_color=00A8FF&text_color=F8FAFC&ring_color=00D9FF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetsaha1&layout=compact&hide_border=true&bg_color=0B1117&title_color=00E676&text_color=F8FAFC" height="165"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=jeetsaha1&hide_border=true&background=0B1117&ring=00E676&fire=00D9FF&currStreakLabel=00A8FF&sideLabels=F8FAFC&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetsaha1&theme=tokyonight&hide_border=true&background=0d1117&ring=8A63F5&fire=8A63F5" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeetsaha1&bg_color=0B1117&color=00D9FF&line=00E676&point=F8FAFC&area=true&area_color=00A8FF&hide_border=true" width="100%"/>
 
-<br/><br/>
+</div>
+
+<sub>Dynamically generated by third-party services — if a card doesn't render on first load, it's an upstream availability issue, not a broken link.</sub>
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/jeetsaha1/jeetsaha1/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
 
-## 12 — Connect With Me
+## 📡 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jeetsaha1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/jeetsaha800/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/jeet.saha.886887"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:jeet2022saha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://portfolio-nine-amber-y3a4zznim0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfolio-nine-amber-y3a4zznim0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1117?style=for-the-badge&logo=vercel&logoColor=00E676"/></a>
+<a href="https://github.com/jeetsaha1"><img src="https://img.shields.io/badge/GitHub-0B1117?style=for-the-badge&logo=github&logoColor=F8FAFC"/></a>
+<a href="https://www.linkedin.com/in/jeetsaha1/"><img src="https://img.shields.io/badge/LinkedIn-0B1117?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/></a>
+<a href="mailto:jeet2022saha@gmail.com"><img src="https://img.shields.io/badge/Email-0B1117?style=for-the-badge&logo=gmail&logoColor=00D9FF"/></a>
+<a href="https://www.instagram.com/jeetsaha800/"><img src="https://img.shields.io/badge/Instagram-0B1117?style=for-the-badge&logo=instagram&logoColor=00C853"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-<div align="center"><sub>✨ Code • Learn • Build • Repeat ✨</sub></div>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
